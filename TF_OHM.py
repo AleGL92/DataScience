@@ -5,7 +5,7 @@ import numpy as np
 import logging
 import matplotlib.pyplot as plt
 
-# Create the logger, so we can keep track of what's happening. (CHEKEAR ESTO ANTES DE PUBLICAR)
+# Create the logger, so we can keep track of what's happening.
 # logger = tf.get_logger()
 # logger.setLevel(logging.ERROR)
 

@@ -299,3 +299,5 @@ for i in range(1,10):
 # Real_labels = [0, 1, 2, 0, 1, 2, 0, 1, 2]
 # Pred_labels = [2, 1, 1, 0, 2, 2, 0, 1, 2]
             #    N  Y  N  Y  N  Y  Y  Y  Y      6/10 correctly predicted
+    
+# Alejandro García Lagos

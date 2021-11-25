@@ -1,4 +1,4 @@
-# Classification of a DS with hands playing rock, paper or scissor. 
+# Classification of a DS containing hands playing rock, paper or scissor. 
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf

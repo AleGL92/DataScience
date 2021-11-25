@@ -29,3 +29,5 @@ for i in range (1, 10):
     cv2.imwrite(url_save, c_img)
 
     print(url_save)
+    
+# Alejandro García Lagos

@@ -9,4 +9,4 @@ Currently, there are 4 proyects:
               To resize and crop those images, the code res.py is used. The resulting images were uploaded to the HandPics folder.
               In this code, I have commented what many of the lines do.
   - TF_HoH: Classification of the Human or Horse dataset. This code is very similar to the last one, but there are no comments.
-  - NLP: Inside the folder, there are another 4 codes. They show how to predict the sentiment of some reviews, tokenizing the text and using an enmbedding layer in the model. Also          on of the, shows how to create some lyrics, based on the lyrics used to train the model.
+  - NLP: Inside the folder there are 4 codes for natural language processing. They show how to predict the sentiment of some reviews, tokenizing the text and using an enmbedding            layer in the model. Another of the codes, shows how to create some lyrics, based on the lyrics used to train the model.

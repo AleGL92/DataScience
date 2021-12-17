@@ -2,10 +2,15 @@ In this folder there are some codes for applying deep learning to natural langua
 
 The first code is NLP_Ale, where there's an example of how the tokenization and the padding works
 
-In the second code (NLP_RVWS), there's a prediction of the sentimient for Yelp and Amazon reviews. The data comes from Kaggle again, and the data is uploaded to this repository, 
-so the code works just downloading it and running it locally. Before tokeninzing, the text has to be prepared, then the model is created using a neuronal network with embeddings and, finally, there are some predictions.
+In the second code (NLP_RVWS), there's a prediction of the sentimient for Yelp and Amazon reviews. 
+The data comes from Kaggle again, and the data is uploaded to this repository, 
+so the code works just downloading it and running it locally. Before tokeninzing, the text has to 
+be prepared, then the model is created using a neuronal network with embeddings and, finally, there 
+are some predictions.
 
-The third code in the folder (NLP_RVWS_2) is the continuation to the previous one. To try to get better results, the tokenization is done using subwords, the model is defined using average pooling instead of a flatten layer, 
-and a bidirectional long-short term memory layer is added aswell.
+The third code in the folder (NLP_RVWS_2) is the continuation to the previous one. To try to get 
+better results, the tokenization is done using subwords, the model is defined using average pooling 
+instead of a flatten layer, and a bidirectional long-short term memory layer is added aswell.
 
-Finally, in the fourth code (NLP_GEN), there's an example of how to create text, using the same kind of predictions I used before.
+Finally, in the fourth code (NLP_GEN), there's an example of how to create text, using the same kind 
+of predictions I used before.
